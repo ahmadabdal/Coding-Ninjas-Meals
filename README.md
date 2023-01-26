@@ -2,9 +2,11 @@
 
 Language Used
 
-  1. Vanilla JS
-  2. CSS
-  3. HTML
+  i.   Vanilla JS
+  ii.  CSS
+  iii. HTML
+
+
 
 
 1. API
