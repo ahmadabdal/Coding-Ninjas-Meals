@@ -28,7 +28,7 @@ img {
 
 .mobile-container {
   position: relative;
-  background-color: lightcyan;
+  background-color: rgb(183, 129, 14);
   box-shadow: 0 0 10px 2px #3333331a;
   border-radius: 65px;
   width: 700px;
@@ -139,6 +139,7 @@ header button {
 
 .meal {
   border-radius: 3px;
+  background-color: white;
   box-shadow: 0 0 10px 2px #3333331a;
   margin: 1.5rem;
   overflow: hidden;
